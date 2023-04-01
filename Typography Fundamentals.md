@@ -54,5 +54,5 @@ An online game of kerning. https://type.method.ac
 
 ### Character Viewer and FontBook
 These tools help you work with glyphs outside of Adobe InDesign.
-The macOS Character Viewer helps you find glyphs across fonts. https://support.apple.com/guide/mac-help/use-emoji-and-symbols-on-mac-mchlp1560/mac
-The macOS FontBook allows you to preview all the glyphs included in a font.
+* The macOS Character Viewer helps you find glyphs across fonts and insert them into your text. https://support.apple.com/guide/mac-help/use-emoji-and-symbols-on-mac-mchlp1560/mac
+* The macOS FontBook allows you to preview all the glyphs included in a font. https://support.apple.com/guide/font-book/welcome/mac

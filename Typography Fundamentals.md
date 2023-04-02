@@ -1,4 +1,4 @@
-# Typography Fundamentals—seeing, thinking, making
+# Typography Fundamentals—seeing, thinking, feeling, making
 CCA, Spring 2023
 
 ## Course Outline
@@ -17,7 +17,7 @@ CCA, Spring 2023
 
 ### Typeface vs. font
 A typeface: Helvetica. A font: Helvetica Bold. Think of typeface as the “font family”. Its specific weights, widths, and slopes are the individual fonts within that typeface/font family.
-* Weights (Thin/bold)  https://en.wikipedia.org/wiki/Font#Weight
+* Weights (Thin/bold) https://en.wikipedia.org/wiki/Font#Weight
 * Width (Expanded/wide/narrow/condensed) https://en.wikipedia.org/wiki/Font#Width
 * Italics/Obliques/Slope https://en.wikipedia.org/wiki/Font#Slope
 
@@ -27,13 +27,14 @@ A typeface: Helvetica. A font: Helvetica Bold. Think of typeface as the “font 
     * Sans-serif https://en.wikipedia.org/wiki/Sans-serif
 * Monospaced https://en.wikipedia.org/wiki/Typeface#Monospaced_typefaces
 
-### Typeface anatomy—Lines, heights, and parts
+### Typeface anatomy—lines, heights, and parts
 Baseline, x-height, cap-height, ascenders, descenders, counters
 * https://en.wikipedia.org/wiki/Typeface_anatomy
 
 ### Letter spacing
-* Kerning https://en.wikipedia.org/wiki/Kerning
+Tracking adjusts spacing between *all* letters while kerning adjusts spacing between specific *pairs* of letters. 
 * Tracking https://en.wikipedia.org/wiki/Letter_spacing
+* Kerning https://en.wikipedia.org/wiki/Kerning
 
 ## Resources
 

@@ -36,6 +36,8 @@ Tracking adjusts spacing between *all* letters while kerning adjusts spacing bet
 * Tracking https://en.wikipedia.org/wiki/Letter_spacing
 * Kerning https://en.wikipedia.org/wiki/Kerning
 
+
+
 ## Resources
 
 ### Helvetica (2006)
@@ -57,3 +59,37 @@ An online game of kerning. https://type.method.ac
 These tools help you work with glyphs outside of Adobe InDesign.
 * The macOS Character Viewer helps you find glyphs across fonts and insert them into your text. https://support.apple.com/guide/mac-help/use-emoji-and-symbols-on-mac-mchlp1560/mac
 * The macOS FontBook allows you to preview all the glyphs included in a font. https://support.apple.com/guide/font-book/welcome/mac
+
+### Butterick’s Practical Typography
+https://practicaltypography.com
+
+Further reading https://practicaltypography.com/bibliography.html
+
+### *Thinking with Type* by Ellen Lupton
+https://papress.com/products/thinking-with-type-second-revised-expanded-edition-a-critical-guide-for-designers-writers-editors-students
+
+https://shop.hatchshowprint.com/products/ingram-book-company-thinking-with-type-a-critical-1568989695
+
+https://ellenlupton.com/Essays
+
+### *The Elements of Typographic Style* by Robert Bringhurst
+https://typographica.org/typography-books/the-elements-of-typographic-style-4th-edition/
+
+https://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style
+
+### School for Poetic Computation
+Alternative Typographic Histories, Summer 2023
+
+https://sfpc.study/sessions/summer-23/alternative-typographic-histories
+
+### Design Observer
+
+https://designobserver.com/main.php
+
+### Print Magazine
+
+Typography articles https://www.printmag.com/categories/typography/
+
+### *Letters of Light* by J.R. Osborn
+
+https://www.hup.harvard.edu/catalog.php?isbn=9780674971127

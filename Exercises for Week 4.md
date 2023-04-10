@@ -1,6 +1,6 @@
 # Exercises for Week 4
 
-You’re welcome to start these two exercises on your own, but I will set aside at least an hour in class to work on either or both of these. At the end of the hour, we’ll hold a critique and talk about choices you made, or any obstacle you confronted, technical or otherwise. I encourage you to iterate your ideas across multiple pages or spreads so that you can see the evolution of your thinking. 
+You’re welcome to start these two exercises on your own, but I will set aside at least an hour in class to work on either or both of these. At the end of the hour, we’ll hold a critique and talk about choices you made, or any obstacles you confronted, technical or otherwise. I encourage you to iterate your ideas across multiple pages or spreads so that you can see the evolution of your thinking. 
 
 The goal of these exercises is not only to give you some practice, but also to help you develop or refine technical skills using your chosen typographical tool. It’s ok if you run into problems or obstacles. But my intention is not to frustrate you—email me if you’re eager to make progress during the week, or wait until office hours or class so that we can go through some of these new ideas and techniques together. There’s no way to do these exercises incorrectly—whatever you produce will represent learning.
 

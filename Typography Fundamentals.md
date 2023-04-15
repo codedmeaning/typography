@@ -66,6 +66,8 @@ https://practicaltypography.com
 Further reading https://practicaltypography.com/bibliography.html
 
 ### *Thinking with Type* by Ellen Lupton
+ https://archive.org/details/thinkingwithtype0000lupt_h9e8
+
 https://papress.com/products/thinking-with-type-second-revised-expanded-edition-a-critical-guide-for-designers-writers-editors-students
 
 https://shop.hatchshowprint.com/products/ingram-book-company-thinking-with-type-a-critical-1568989695
@@ -73,6 +75,8 @@ https://shop.hatchshowprint.com/products/ingram-book-company-thinking-with-type-
 https://ellenlupton.com/Essays
 
 ### *The Elements of Typographic Style* by Robert Bringhurst
+https://archive.org/details/isbn_9780881791327
+
 https://typographica.org/typography-books/the-elements-of-typographic-style-4th-edition/
 
 https://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style

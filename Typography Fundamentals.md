@@ -94,6 +94,11 @@ https://designobserver.com/main.php
 
 Typography articles https://www.printmag.com/categories/typography/
 
+### Communication Arts
+
+https://www.commarts.com
+Typography gallery https://www.commarts.com/gallery?d=typography
+
 ### *Letters of Light* by J.R. Osborn
 
 https://www.hup.harvard.edu/catalog.php?isbn=9780674971127

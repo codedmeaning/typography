@@ -96,9 +96,14 @@ Typography articles https://www.printmag.com/categories/typography/
 
 ### Communication Arts
 
-https://www.commarts.com
+https://www.commarts.com <br />
 Typography gallery https://www.commarts.com/gallery?d=typography
 
 ### *Letters of Light* by J.R. Osborn
 
 https://www.hup.harvard.edu/catalog.php?isbn=9780674971127
+
+### Adobe InDesign Tutorials and Training
+* Adobe https://helpx.adobe.com/indesign/view-all-tutorials.html
+* LinkedIn Learning through the San Francisco Public Library https://www.linkedin.com/learning-login/go/sfpl. Follow the Typography skill set.
+* Adobe InDesign Classroom in a Book (2023 Release). On O’Reilly Learning through the San Francisco Public Library https://learning-oreilly-com.ezproxy.sfpl.org/library/view/adobe-indesign-classroom/9780137967506/

@@ -6,7 +6,7 @@ We looked at two different publications and noticed that one approached typograp
 
 The first publication was *Bookforum*. It’s a literary magazine, and its love of words is clearly reflected in the typography.
 
-It starts with the table of contents. There’s a clear set of rules for how they treat features versus the rest of the magazine. The use of color is sparing, but effective in helping navigate a dense list of information. Alignment is well considered. Note the use of weight, caps, serif and sans-serif, positioning, and color to clarify and differentiate all the information that must be conveyed—article authors, book authors, article titles, book titles, sections, and page numbers. This is a deep, and very well established, hierarchy. Just keep looking and you’ll notice even more to appreciate. Overall, the typography is elegant and complex; it simplifies the way we are to understand the system of information laid out in the rest of the magazine.
+It starts with the table of contents. There’s a clear set of rules for how they treat features versus the rest of the magazine. The use of color is sparing but effective in helping navigate a dense list of information and delineate groupings of material. Alignment is well considered. Note the use of weight, caps, serif and sans-serif, positioning, and color to clarify and differentiate all the information that must be conveyed—article authors, book authors, article titles, book titles, sections, and page numbers. This is a deep, and very well established, hierarchy. Just keep looking and you’ll notice even more to appreciate. Overall, the typography is elegant and complex; it simplifies the way we are to understand the system of information laid out in the rest of the magazine. It does the heavy lifting for us so that we can grasp the information quickly, with little effort.  
 
 <br />
 <br />
@@ -30,7 +30,7 @@ Then, we looked at *Communication Arts*, expecting to see good examples of typog
 <br />
 <br />
 
-**The culprit**—Text Frame Options→Vertical Justification→Align:Justify in Text Frame Options. This setting will override your leading value with an arbitrary number, merely to make the last lines of columns align horizontally along the bottom of the text frame. This is rarely a good idea. Never use it on columns of text. If you need that kind of alignment, consider a baseline grid, use paragraph indents, or use 2× paragraph spacing.
+**The culprit**. Text Frame Options → Vertical Justification → Align:Justify. This setting will override your leading value with an arbitrary number, merely to ensure that the final lines of columns align horizontally along the bottom of the text frame. This is rarely a good idea, and it should never be used on columns of text. If you need that kind of alignment, consider a baseline grid, use paragraph indents with no paragraph spacing, or use 2× paragraph spacing. And even when using 1.5× paragraph spacing, lines across columns will fall in and out of alignment in an expected and uniform way.
 
 <br />
 <br />
@@ -42,9 +42,8 @@ Then, we looked at *Communication Arts*, expecting to see good examples of typog
 
 Here’s a [PDF](images/communication-arts.pdf) of the *Communication Arts* magazine issue that we examined. The *Bookforum* issue is harder to access without a subscription. But you can find it on Flipster via the San Francisco Public Library at <https://flipster-ebsco-com.ezproxy.sfpl.org/plink/reader/gswfel/3463025>. 
 
-
 ## And redesigned flyers
-*The Washington Post* requires a subscriptions to read the article, but Apple News offers it for free. “Many signs in NYC could use an artist’s touch. This man is doing it for free, incognito.” <https://apple.news/A0eTNoWoSQQqZpxO4jF5B-A>
+*The Washington Post* requires a subscription to read the article, but Apple News offers it for free. “Many signs in NYC could use an artist’s touch. This man is doing it for free, incognito.” <https://apple.news/A0eTNoWoSQQqZpxO4jF5B-A>
 
 ## Beyond this course
 
@@ -52,7 +51,7 @@ Here’s a [PDF](images/communication-arts.pdf) of the *Communication Arts* maga
 * **Copy great examples**. Try your hand at making a copy of a high-quality spread or page. The process of replicating all the tiny decisions of a good typographer will help you understand so much more, especially scale, spacing, proportions, hierarchy, and alignment. Remember to work to your example’s exact page dimensions.
 * **Reference Butterick’s Practical Typography**. <https://practicaltypography.com> This is such a great reference and a fundamental resource. Refer often to the punctuation section so you don’t accidentally make tell-tale typographical mistakes related to quotes, apostrophes, and dashes.
 * **Print**. Always print your work at 100% scale, even if you have to print in tiles. Proportions can be deceiving on a computer screen. This is especially true if you’re working on a larger piece like a poster. Seeing actual type, at scale and on paper, will save you a lot of frustration during your design and production process.
-* **Remember your intent and your reader**. There will often be obvious choices that will solve your typographical problem—at micro and macro scales—if you keep in mind the conceptual drivers and the overall, core purpose of the project. Remember the continuum between Massimo Vignelli and David Carson—conservative/expressive, legible/illegible, informative/emotive, and all the degrees in between. When you think you’re done with a project, reevaluate it according to your original goals.
+* **Remember your intent and your reader**. There will often be obvious choices that will solve your typographical problem—at micro and macro scales—if you keep in mind the conceptual drivers and the overall, core purpose of the project. Remember the continuum between Massimo Vignelli and David Carson—conservative/expressive, legible/illegible, informative/emotive, and all the degrees in between. When you think you’re done with a project, reevaluate it according to your original goals and intent.
 
 ## Publications and resources
 

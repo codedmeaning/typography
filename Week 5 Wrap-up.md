@@ -88,3 +88,7 @@ Typography articles <https://www.printmag.com/categories/typography>
 * Adobe https://helpx.adobe.com/indesign/view-all-tutorials.html
 * LinkedIn Learning through the San Francisco Public Library https://www.linkedin.com/learning-login/go/sfpl. Follow the Typography skill set.
 * Adobe InDesign Classroom in a Book (2023 Release). O’Reilly Learning through the San Francisco Public Library https://learning-oreilly-com.ezproxy.sfpl.org/library/view/adobe-indesign-classroom/9780137967506/
+
+## Local institutions
+* San Francisco Center for the Book <https://sfcb.org><br />The current exhibition is *Craft & Conceptual Art: Reshaping the Legacy of Artists’ Books*, through June 18
+* Letterform Archive <https://letterformarchive.org>
